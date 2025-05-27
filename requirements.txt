@@ -5,3 +5,4 @@ starlette
 httpx
 responses
 python-dotenv
+google-generativeai
