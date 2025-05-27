@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+jinja2
+starlette
+httpx
+responses
+python-dotenv
+google-generative-ai
+python-dotenv
